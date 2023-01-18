@@ -145,7 +145,7 @@ FROM
 ```
 
  ### DISTINCT
-
+Nos permite devolver valores distintos de una tabla, es decir, valores unicos de la tabla
  #### Example / Correct
  ```SQL
 
