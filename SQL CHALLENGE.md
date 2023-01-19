@@ -19,7 +19,7 @@ FROM
 SELECT
 a.BusinessEntityID
 ,a.PersonType
-,a.FirstNameX`
+,a.FirstName
 ,a.LastName
 
 FROM
