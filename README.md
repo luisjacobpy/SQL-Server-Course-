@@ -1,9 +1,9 @@
 # SQL-Server-Course-
 My notes in the course SQL Server
 
+![](https://github.com/luisjacobpy/SQL-Server-Course-/blob/main/mssqlserver.png)
 
-
-#Temario
+## Temario
 1. Seleccion de objetos
 2. Union de tablas (JOIN'S)
 3. Funciones de agragación
